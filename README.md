@@ -5,7 +5,7 @@ list of reading materials for distributed systems
 ## time, clock, ordering of events
 
 - [x] **lamport timestamp:** Time, Clocks, and the Ordering of Events in a Distributed System - Leslie Lamport (<https://lamport.azurewebsites.net/pubs/time-clocks.pdf>)
-- [ ] **vector clocks:** Timestamps in Message-Passing Systems That Preserve the Partial Ordering - Colin J. Fidge (<https://zoo.cs.yale.edu/classes/cs426/2012/lab/bib/fidge88timestamps.pdf>)
+- [x] **vector clocks:** Timestamps in Message-Passing Systems That Preserve the Partial Ordering - Colin J. Fidge (<https://zoo.cs.yale.edu/classes/cs426/2012/lab/bib/fidge88timestamps.pdf>)
 - [ ] **version vectors:** Detection of Mutual Inconsistency in Distributed Systems - D. STOTT PARKER, JR., GERALD J. POPEK, GERARD RUDISIN, ALLEN STOUGHTON, BRUCE J. WALKER, EVELYN WALTON, JOHANNA M. CHOW, DAVID EDWARDS, STEPHEN KISER, AND CHARLES KLINE (<https://zoo.cs.yale.edu/classes/cs422/2013/bib/parker83detection.pdf>)
 
 ## partitioning/sharding
