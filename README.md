@@ -13,6 +13,10 @@ list of reading materials for distributed systems
 
 - [ ] **consistent hashing:** Consistent Hashing and Random Trees: Distributed Caching Protocols for Relieving Hot Spots on the World Wide Web - David Karger, Eric Lehman, Tom Leighton, Matthew Levine, Daniel Lewin, Rina Panigrahy (<https://www.akamai.com/us/en/multimedia/documents/technical-publication/consistent-hashing-and-random-trees-distributed-caching-protocols-for-relieving-hot-spots-on-the-world-wide-web-technical-publication.pdf>)
 
+## CAP Theorem
+
+- [ ] Problems with CAP, and Yahoo’s little known NoSQL system (http://dbmsmusings.blogspot.com/2010/04/problems-with-cap-and-yahoos-little.html)
+
 ## System Design Resources
 
 - [ ] **Google SRE Classroom:** https://sre.google/classroom/
