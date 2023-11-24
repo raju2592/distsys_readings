@@ -23,6 +23,11 @@ Protocol - Abhinandan Das, Indranil Gupta, Ashish Motivala (<https://www.cs.corn
 
 - [ ] Problems with CAP, and Yahoo’s little known NoSQL system (http://dbmsmusings.blogspot.com/2010/04/problems-with-cap-and-yahoos-little.html)
 
+## Consistency Models
+
+- [ ] Consistency in Non-Transactional
+Distributed Storage Systems (https://arxiv.org/pdf/1512.00168.pdf)
+
 ## System Design Resources
 
 - [ ] **Google SRE Classroom:** https://sre.google/classroom/
