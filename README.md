@@ -13,6 +13,17 @@ list of reading materials for distributed systems
 
 - [ ] **consistent hashing:** Consistent Hashing and Random Trees: Distributed Caching Protocols for Relieving Hot Spots on the World Wide Web - David Karger, Eric Lehman, Tom Leighton, Matthew Levine, Daniel Lewin, Rina Panigrahy (<https://www.akamai.com/us/en/multimedia/documents/technical-publication/consistent-hashing-and-random-trees-distributed-caching-protocols-for-relieving-hot-spots-on-the-world-wide-web-technical-publication.pdf>)
 
+## Connsensus
+- [ ] Paxos Made Simple - Leslie Lamport (https://lamport.azurewebsites.net/pubs/paxos-simple.pdf)
+- [ ] Paxos Made Moderately Complex - Robbert van Renesse (https://www.cs.cornell.edu/home/rvr/Paxos/paxos.pdf)
+- [ ] Paxos Made Live - An Engineering Perspective - Tushar Chandra, Robert Griesemer, Joshua Redstone (https://www.cs.utexas.edu/users/lorenzo/corsi/cs380d/papers/paper2-1.pdf)
+- [ ] In Search of an Understandable Consensus Algorithm - Diego Ongaro, John Ousterhout (https://raft.github.io/raft.pdf)
+- [ ] Paxos vs Raft: Have we reached consensus on distributed consensus? - Heidi Howard, Richard Mortier (https://arxiv.org/pdf/2004.05074.pdf)
+
+## Failure Detector
+- [ ] Unreliable Failure Detectors for Reliable Distributed Systems - Tushar Deepak Chandra, Sam Toueg (https://apps.dtic.mil/sti/tr/pdf/ADA269016.pdf)
+
+
 ## cluster membership
 
 - [ ] **SWIM gossip protocol:** SWIM: Scalable Weakly-consistent Infection-style Process Group Membership
