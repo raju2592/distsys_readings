@@ -42,3 +42,10 @@ Distributed Storage Systems (https://arxiv.org/pdf/1512.00168.pdf)
 ## System Design Resources
 
 - [ ] **Google SRE Classroom:** https://sre.google/classroom/
+- [ ] 
+
+## Event Streaming, Logs
+- [ ] The Log: What every software engineer should know about real-time data's unifying abstraction (https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
+
+## Designed Systems
+- [ ] Understanding How Apache Pulsar Works - Jack Vanlightly (https://jack-vanlightly.com/blog/2018/10/2/understanding-how-apache-pulsar-works)
