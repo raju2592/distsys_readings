@@ -49,3 +49,5 @@ Distributed Storage Systems (https://arxiv.org/pdf/1512.00168.pdf)
 
 ## Designed Systems
 - [ ] Understanding How Apache Pulsar Works - Jack Vanlightly (https://jack-vanlightly.com/blog/2018/10/2/understanding-how-apache-pulsar-works)
+- [ ] The Chubby lock service for loosely-coupled distributed systems (https://static.googleusercontent.com/media/research.google.com/en//archive/chubby-osdi06.pdf)
+
